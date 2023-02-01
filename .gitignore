@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+.env
+.DS_Store
+.ipynb_checkpoints
+tweets_airflow_ec2_key.pem
+tweets_airflow_t3_med_key.pem
 # User-specific files
 *.rsuser
 *.suo
